@@ -1,0 +1,18 @@
+.navbar{
+    height: 55px;
+    box-shadow: 0 0 10px;
+}
+h1{
+    position: fixed;
+	 top: 0px;
+	 left: 0px;
+	 margin: 0px;
+	 padding: 10px;
+	 width: 100%;
+     background-color:blue;
+     color:white;
+     font-family: 'Times New Roman', Times, serif;
+     text-align: center;
+     /* z-index: 10; */
+     font-size: 34px
+}
